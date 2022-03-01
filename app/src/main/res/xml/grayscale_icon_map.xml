@@ -323,6 +323,7 @@
     <icon drawable="@drawable/telegram" package="org.telegram.messenger.web" name="Telegram" />
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegram" name="Telegram X" />
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram X" />
+    <icon drawable="@drawable/telegram" package="ir.ilmili.telegraph" name="Telegraph" />
     <icon drawable="@drawable/termux" package="com.termux" name="Termux" />
     <icon drawable="@drawable/theathletic" package="com.theathletic" name="The Athletic" />
     <icon drawable="@drawable/ticktick" package="com.ticktick.task" name="TickTick" />
