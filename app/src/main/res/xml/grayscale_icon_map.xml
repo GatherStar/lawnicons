@@ -743,7 +743,7 @@
     <icon drawable="@drawable/luckypatcher"  package="ru.ecgsoqxo.vrxlceumw" name="luckypatcher" />
     <icon drawable="@drawable/zngj"  package="com.edcsc.wbus" name="zngj" />
     <icon drawable="@drawable/player"  package="com.xyoye.dandanplay" name="ddplay" />
-    <icon drawable="@drawable/clash-of-clans"  package="com.supercell.clashofclans" name="clash-of-clans" />
+    <icon drawable="@drawable/clashofclans"  package="com.supercell.clashofclans" name="clashofclans" />
     <icon drawable="@drawable/andpods"  package="cn.xiaolongonly.andpodsop" name="andpods" />
     <icon drawable="@drawable/xcf"  package="com.xiachufang" name="xcf" />
     <icon drawable="@drawable/rotation"  package="com.pranavpandey.rotation" name="rotation" />
