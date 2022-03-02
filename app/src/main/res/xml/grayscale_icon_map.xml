@@ -716,7 +716,7 @@
     <icon drawable="@drawable/lark"  package="com.ss.android.lark" name="lark" />
     <icon drawable="@drawable/journey"  package="com.journey.app" name="journey" />
     <icon drawable="@drawable/tachij2k"  package="eu.kanade.tachiyomi.j2k" name="tachij2k" />
-    <icon drawable="@drawable/9gag"  package="com.ninegag.android.app" name="9gag" />
+    <icon drawable="@drawable/ninegag"  package="com.ninegag.android.app" name="9gag" />
     <icon drawable="@drawable/haima"  package="com.ponyemu.main" name="haima" />
     <icon drawable="@drawable/feedly"  package="com.devhd.feedly" name="feedly" />
     <icon drawable="@drawable/pornhub"  package="com.app.pornhub" name="pornhub" />
