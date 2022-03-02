@@ -783,9 +783,6 @@
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager" />
 
 
-
-
-
     <icon drawable="@drawable/camera"  package="com.google.android.GoogleCameraEng" name="Camera" />
     <icon drawable="@drawable/camera"  package="com.google.android.apps.cameralite" name="Camera" />
     <icon drawable="@drawable/camera"  package="com.google.android.googlecamera.parrot" name="Camera" />
@@ -896,7 +893,6 @@
     <icon drawable="@drawable/themed_icon_google_fi" package="com.google.android.apps.tycho" />
     <icon drawable="@drawable/themed_icon_news" package="com.google.android.apps.magazines" />
     <icon drawable="@drawable/themed_icon_settings" package="com.android.settings" />
-
     <icon drawable="@drawable/themed_icon_files" package="com.google.android.apps.nbu.files" />
     <icon drawable="@drawable/themed_icon_google_one" package="com.google.android.apps.subscriptions.red" />
     <icon drawable="@drawable/themed_icon_photos" package="com.google.android.apps.photos" />
@@ -927,12 +923,8 @@
     <icon drawable="@drawable/themed_icon_podcasts" package="com.google.android.apps.podcasts" />
     <icon drawable="@drawable/themed_icon_youtube_tv" package="com.google.android.apps.youtube.unplugged" />
     <icon drawable="@drawable/themed_icon_clock" package="com.google.android.deskclock" />
-
-
-
-
-    <icon drawable="@drawable/themed_icon_clock"  package="com.sec.android.app.clockpackage " name="时钟  "/>
-    <icon drawable="@drawable/themed_icon_contacts"  package="com.samsung.android.app.contacts " name="联系人"/>
-    <icon drawable="@drawable/yjtq"  package="com.sec.android.daemonapp " name="天气 "/>
-    <icon drawable="@drawable/telegram"  package="ir.ilmili.telegraph " name="telegraph "/>
+    <icon drawable="@drawable/themed_icon_clock"  package="com.sec.android.app.clockpackage" name="时钟"/>
+    <icon drawable="@drawable/themed_icon_contacts"  package="com.samsung.android.app.contacts" name="联系人"/>
+    <icon drawable="@drawable/yjtq"  package="com.sec.android.daemonapp" name="天气"/>
+    <icon drawable="@drawable/telegram"  package="ir.ilmili.telegraph" name="telegraph"/>
 </icons>
