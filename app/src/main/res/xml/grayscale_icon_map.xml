@@ -728,7 +728,7 @@
     <icon drawable="@drawable/flipaclip"  package="com.vblast.flipaclip" name="flipaclip" />
     <icon drawable="@drawable/shortcut"  package="rk.android.app.shortcutmaker" name="shortcut" />
     <icon drawable="@drawable/nova"  package="com.teslacoilsw.launcher" name="nova" />
-    <icon drawable="@drawable/switch"  package="xyz.paphonb.quickstepswitcher" name="switch" />
+    <icon drawable="@drawable/swiLtch"  package="xyz.paphonb.quickstepswitcher" name="swiLtch" />
     <icon drawable="@drawable/libchecker"  package="com.absinthe.libchecker" name="libchecker" />
     <icon drawable="@drawable/geogebra"  package="org.geogebra.android.calculator.suite" name="geogebra" />
     <icon drawable="@drawable/mysplash"  package="com.wangdaye.mysplash" name="mysplsh" />
@@ -873,5 +873,4 @@
     <icon drawable="@drawable/pixez" package="com.perol.play.pixez" />
     <icon drawable="@drawable/usb" package="com.paragon.tcplugins_ntfs_ro" />
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager" />
-
 </icons>
